@@ -1,6 +1,6 @@
 # OPNsense Network Configuration Labs
 
-A running log of hands-on network configuration with the OPNsense firewall, documented as I go — mostly for my own reference, but public in case it helps someone else.
+A running log of hands-on network configuration with the OPNsense firewall, documented as I go mostly for my own reference, but public in case it helps someone else.
 
 Each folder is a self-contained stage with its own README.md covering the objective, configuration steps, verification tests, problems encountered, and concepts learned.
 
