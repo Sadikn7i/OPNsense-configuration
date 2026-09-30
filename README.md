@@ -11,7 +11,7 @@ Each folder is a self-contained stage with its own README.md covering the object
 | 01 | [Installation Lab](01-installation-lab/) | VirtualBox VM design, OPNsense install, WAN/LAN interface assignment, static LAN IP, setup wizard | ✅ Done |
 | 02 | [Update and Firewall Basics Lab](02-update-and-firewall-basics-lab/) | Snapshots, firmware update, dashboard, default rules, default deny, stateful filtering | ✅ Done |
 | 03 | [Client Network and DHCP Lab](03-client-network-dhcp-lab/) | New interface, dnsmasq DHCP, Unbound DNS, firewall rules, NAT, end-to-end testing | ✅ Done |
-| 04 | Office / Factory Segmentation Lab | IT/OT separation, port-specific rules, firewall logging | 🔲 Planned |
+| 04 | [Office / Factory Segmentation Lab](04-office-factory-segmentation-lab/) | IT/OT separation, aliases, static DHCP mapping, port-specific rules, firewall logging | ✅ Done |
 | 05 | DMZ and Port Forwarding Lab | Isolated server network, inbound NAT, web server exposure | 🔲 Planned |
 | 06 | VPN Lab | WireGuard remote access | 🔲 Planned |
 | 07 | Intrusion Detection Lab | Suricata IDS/IPS, attack detection | 🔲 Planned |
