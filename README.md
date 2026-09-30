@@ -16,6 +16,14 @@ Each folder is a self-contained stage with its own README.md covering the object
 | 06 | VPN Lab | WireGuard remote access | 🔲 Planned |
 | 07 | Intrusion Detection Lab | Suricata IDS/IPS, attack detection | 🔲 Planned |
 
+
+
+## Reference
+
+- [OPNsense Features](opnsense-features/) - every menu in OPNsense, what it does and when to use it
+- [Glossary](glossary/) - every term used in these labs, with real-world examples
+- [Practical Examples](practical-examples/) - how this setup looks in a real office and a manufacturing company
+
 ## Environment
 
 - Host: Windows
