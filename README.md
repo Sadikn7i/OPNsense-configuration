@@ -1,4 +1,3 @@
-# OPNsense Network Configuration Labs
 
 A running log of hands-on network configuration with the OPNsense firewall, documented as I go mostly for my own reference, but public in case it helps someone else.
 
